@@ -1,5 +1,8 @@
 <h1 align="center">fastapi_template</h1>
 
+## 此仓库已于2024年3月14日迁移至组织
+[点击跳转](https://github.com/ttutils/tt_util)
+
 此项目是根据[@buyfakett](https://github.com/buyfakett)的fastapi使用习惯的模板仓库
 
 项目目录：
@@ -22,6 +25,8 @@
     └── yaml_util.py		# yaml配置
 
 ```
+
+
 
 - 该仓库使用postgres作为数据库
 
